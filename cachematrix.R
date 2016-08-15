@@ -1,4 +1,4 @@
-## Creates a Matrix in the global environment and caches it for easy retreival.
+## Creates a Matrix in the global environment and caches it for fast retreival.
 
 ## Makes a matrix and its functions accessible globally
 
